@@ -14,8 +14,8 @@ export default function Services() {
   ];
 
   return (
-    <div className="py-8 px-4 min-h-screen flex flex-col items-center">
-      <h1 className="text-center text-[15px] font-bold mb-8">
+    <div className=" px-4  flex flex-col items-center">
+      <h1 className="text-center text-[15px] font-bold ">
         Our teams provide consulting, implementation, and support in the following areas:
       </h1>
       <div className="grid grid-cols-1 mt-20 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 w-full max-w-6xl">
